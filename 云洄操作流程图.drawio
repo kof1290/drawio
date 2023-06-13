@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T03:34:23.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="5L4PWll55NP60HOPkQuz" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-13T06:37:22.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="IOiKyigxoyXk-sooDGaC" version="21.3.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="988" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,8 +25,8 @@
         <mxCell id="VFCMnokoPyZVT8G4Ff3--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VFCMnokoPyZVT8G4Ff3--9" target="VFCMnokoPyZVT8G4Ff3--12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VFCMnokoPyZVT8G4Ff3--9" value="创建看板&lt;br&gt;选择已有的模板&lt;br&gt;或创建空模板" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="VFCMnokoPyZVT8G4Ff3--9" value="创建看板" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="290" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VFCMnokoPyZVT8G4Ff3--19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VFCMnokoPyZVT8G4Ff3--12" target="VFCMnokoPyZVT8G4Ff3--18">
           <mxGeometry relative="1" as="geometry" />
@@ -42,6 +42,18 @@
         </mxCell>
         <mxCell id="VFCMnokoPyZVT8G4Ff3--21" value="看板搭建完成" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VFCMnokoPyZVT8G4Ff3--23" value="给大屏分类，类似于大屏的文件夹" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="319" y="220" width="190" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="VFCMnokoPyZVT8G4Ff3--24" value="可以使用内置的模板或者使用空白模板" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="319" y="302.5" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="VFCMnokoPyZVT8G4Ff3--25" value="组件种类繁多，主要分为指标、2D图表、3D图表、多媒体、控件等共计70余种组件，还包括iframe和自定义图表组件，系统内支持写代码定制化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="314" y="375" width="206" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="VFCMnokoPyZVT8G4Ff3--27" value="在制作完看板后点击保存后即可正常预览" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="314" y="472.5" width="226" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
